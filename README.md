@@ -10,7 +10,7 @@ This Homebrew tap provides the [`picture-rotation-fixer`](https://github.com/Jus
 First, add this tap:
 
 ```sh
-brew tap JustinGuese/picture-rotation-fixer
+brew tap JustinGuese/homebrew-picture-rotation-fixer
 ```
 
 Then install the CLI tool:

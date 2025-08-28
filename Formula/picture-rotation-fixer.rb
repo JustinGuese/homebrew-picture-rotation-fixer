@@ -6,6 +6,7 @@ class PictureRotationFixer < Formula
 
   def install
     bin.install "picture-rotation-fixer"
+    chmod 0755, bin/"picture-rotation-fixer"
   end
 
   test do

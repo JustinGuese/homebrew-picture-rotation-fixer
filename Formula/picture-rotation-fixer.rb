@@ -1,17 +1,17 @@
 class PictureRotationFixer < Formula
   desc "Effortlessly auto-rotate scanned photos to the correct orientation"
   homepage "https://github.com/JustinGuese/picture-rotation-fixer"
-  version "0.0.4"
+  version "0.0.5"
 
   on_macos do
     on_intel do
-      url "https://github.com/JustinGuese/picture-rotation-fixer/releases/download/v0.0.4/picture-rotation-fixer-macos-x64"
-      sha256 "db203176841ebfc5b3babbd2e9de12d677454c5dc606472f4902079f74eeb8bb"
+      url "https://github.com/JustinGuese/picture-rotation-fixer/releases/download/v0.0.5/picture-rotation-fixer-macos-x64"
+      sha256 "e833230110d5bd12cdeac36222f04cf6b377740811db7feee7f72c491d51313a"
     end
 
     on_arm do
-      url "https://github.com/JustinGuese/picture-rotation-fixer/releases/download/v0.0.4/picture-rotation-fixer-macos-arm64"
-      sha256 "f24f1149358361b80568b845858ee5ae308942fd9e85191b9f33842d38c16dd1"
+      url "https://github.com/JustinGuese/picture-rotation-fixer/releases/download/v0.0.5/picture-rotation-fixer-macos-arm64"
+      sha256 "5a04d93eb90aec3b3ba24f1fb377c7941c205b50c55c534ed7f20de763db1aa7"
     end
   end
 

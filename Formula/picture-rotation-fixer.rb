@@ -1,7 +1,7 @@
 class PictureRotationFixer < Formula
   desc "Effortlessly auto-rotate scanned photos to the correct orientation"
   homepage "https://github.com/JustinGuese/picture-rotation-fixer"
-  version "0.0.3"
+  version "0.0.2"
   
 
   url "https://github.com/JustinGuese/picture-rotation-fixer/releases/download/v#{version}/picture-rotation-fixer"
